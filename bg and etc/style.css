@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+    background-image: url(e.png);
+    background-repeat:
+        repeat;
+    background-attachment: fixed;
+    background-attachment: scroll
+}
+
+.top_section {
+    width: 500px;
+    height: 100px;
+    background-color: olivedrab;
+    text-align: center;
+    color: blue;
+    background-image: linear-gradient(to right, rgb(35, 101, 142), red)
+}
